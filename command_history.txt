@@ -1,0 +1,441 @@
+    1  D:
+    2  cd bubblesortlocal
+    3  /D:
+    4  cd D:
+    5  cd bubblesortlocal
+    6  cd tutepart2
+    7  cd git-tutorial-HangYang
+    8  git pull
+    9  git branch
+   10  git pull
+   11  git merge feature1
+   12  git checkout feature1
+   13  git checkout origin/feature1
+   14  git branch
+   15  git pull
+   16  git add -A
+   17  git commit -m  "Fix"
+   18  git checkout
+   19  git checkout feature1
+   20  git merge
+   21  git pull
+   22  git add -A
+   23  git commit -m "Fix"
+   24  git push -u origin master
+   25  git branch
+   26  git add -A
+   27  git commit -m "Fix"
+   28  git push
+   29  git push -m origin feature1
+   30  git push -m master
+   31  git push --set-upstream origin feature1
+   32  git checkout
+   33  git pull
+   34  git add -A
+   35  git commit -m "Fix"
+   36  git status
+   37  git checkout master
+   38  git merge feature1
+   39  git push -u origin master
+   40  git branch
+   41  git checkout feature1
+   42  git commit -m "FIX"
+   43  git push
+   44  git merge master
+   45  git remote add origin https://github.com//github.com/
+   46  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   47  git remote rm origin
+   48  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   49  git push -u origin feature1
+   50  git push -m "Fix"
+   51  git commit -m "FIX"
+   52  git checkout master
+   53  git commit -m "Fix"
+   54  git push
+   55  cd D:
+   56  cd Coding
+   57  cd lab-1-git-HangYang
+   58  history >> command_history.txt
+    1  D:
+    2  cd bubblesortlocal
+    3  /D:
+    4  cd D:
+    5  cd bubblesortlocal
+    6  cd tutepart2
+    7  cd git-tutorial-HangYang
+    8  git pull
+    9  git branch
+   10  git pull
+   11  git merge feature1
+   12  git checkout feature1
+   13  git checkout origin/feature1
+   14  git branch
+   15  git pull
+   16  git add -A
+   17  git commit -m  "Fix"
+   18  git checkout
+   19  git checkout feature1
+   20  git merge
+   21  git pull
+   22  git add -A
+   23  git commit -m "Fix"
+   24  git push -u origin master
+   25  git branch
+   26  git add -A
+   27  git commit -m "Fix"
+   28  git push
+   29  git push -m origin feature1
+   30  git push -m master
+   31  git push --set-upstream origin feature1
+   32  git checkout
+   33  git pull
+   34  git add -A
+   35  git commit -m "Fix"
+   36  git status
+   37  git checkout master
+   38  git merge feature1
+   39  git push -u origin master
+   40  git branch
+   41  git checkout feature1
+   42  git commit -m "FIX"
+   43  git push
+   44  git merge master
+   45  git remote add origin https://github.com//github.com/
+   46  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   47  git remote rm origin
+   48  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   49  git push -u origin feature1
+   50  git push -m "Fix"
+   51  git commit -m "FIX"
+   52  git checkout master
+   53  git commit -m "Fix"
+   54  git push
+   55  cd D:
+   56  cd Coding
+   57  cd lab-1-git-HangYang
+   58  history >> command_history.txt
+   59  git add .
+   60  git commit -m "History"
+   61  git remote add origin https://https://github.com/isys3413-sef-2020-sem1/lab-1-git-HangYang.git
+   62  git rm origin
+   63  history >> command_history.txt
+    1  D:
+    2  cd bubblesortlocal
+    3  /D:
+    4  cd D:
+    5  cd bubblesortlocal
+    6  cd tutepart2
+    7  cd git-tutorial-HangYang
+    8  git pull
+    9  git branch
+   10  git pull
+   11  git merge feature1
+   12  git checkout feature1
+   13  git checkout origin/feature1
+   14  git branch
+   15  git pull
+   16  git add -A
+   17  git commit -m  "Fix"
+   18  git checkout
+   19  git checkout feature1
+   20  git merge
+   21  git pull
+   22  git add -A
+   23  git commit -m "Fix"
+   24  git push -u origin master
+   25  git branch
+   26  git add -A
+   27  git commit -m "Fix"
+   28  git push
+   29  git push -m origin feature1
+   30  git push -m master
+   31  git push --set-upstream origin feature1
+   32  git checkout
+   33  git pull
+   34  git add -A
+   35  git commit -m "Fix"
+   36  git status
+   37  git checkout master
+   38  git merge feature1
+   39  git push -u origin master
+   40  git branch
+   41  git checkout feature1
+   42  git commit -m "FIX"
+   43  git push
+   44  git merge master
+   45  git remote add origin https://github.com//github.com/
+   46  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   47  git remote rm origin
+   48  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   49  git push -u origin feature1
+   50  git push -m "Fix"
+   51  git commit -m "FIX"
+   52  git checkout master
+   53  git commit -m "Fix"
+   54  git push
+   55  cd D:
+   56  cd Coding
+   57  cd lab-1-git-HangYang
+   58  history >> command_history.txt
+   59  git add .
+   60  git commit -m "History"
+   61  git remote add origin https://https://github.com/isys3413-sef-2020-sem1/lab-1-git-HangYang.git
+   62  git rm origin
+   63  history >> command_history.txt
+   64  git add .
+   65  git commit -m "final commit"
+   66  git push -u origin master
+   67  git branch
+   68  git checkout master
+   69  history >> command_history.txt
+    1  D:
+    2  cd bubblesortlocal
+    3  /D:
+    4  cd D:
+    5  cd bubblesortlocal
+    6  cd tutepart2
+    7  cd git-tutorial-HangYang
+    8  git pull
+    9  git branch
+   10  git pull
+   11  git merge feature1
+   12  git checkout feature1
+   13  git checkout origin/feature1
+   14  git branch
+   15  git pull
+   16  git add -A
+   17  git commit -m  "Fix"
+   18  git checkout
+   19  git checkout feature1
+   20  git merge
+   21  git pull
+   22  git add -A
+   23  git commit -m "Fix"
+   24  git push -u origin master
+   25  git branch
+   26  git add -A
+   27  git commit -m "Fix"
+   28  git push
+   29  git push -m origin feature1
+   30  git push -m master
+   31  git push --set-upstream origin feature1
+   32  git checkout
+   33  git pull
+   34  git add -A
+   35  git commit -m "Fix"
+   36  git status
+   37  git checkout master
+   38  git merge feature1
+   39  git push -u origin master
+   40  git branch
+   41  git checkout feature1
+   42  git commit -m "FIX"
+   43  git push
+   44  git merge master
+   45  git remote add origin https://github.com//github.com/
+   46  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   47  git remote rm origin
+   48  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   49  git push -u origin feature1
+   50  git push -m "Fix"
+   51  git commit -m "FIX"
+   52  git checkout master
+   53  git commit -m "Fix"
+   54  git push
+   55  cd D:
+   56  cd Coding
+   57  cd lab-1-git-HangYang
+   58  history >> command_history.txt
+   59  git add .
+   60  git commit -m "History"
+   61  git remote add origin https://https://github.com/isys3413-sef-2020-sem1/lab-1-git-HangYang.git
+   62  git rm origin
+   63  history >> command_history.txt
+   64  git add .
+   65  git commit -m "final commit"
+   66  git push -u origin master
+   67  git branch
+   68  git checkout master
+   69  history >> command_history.txt
+   70  git add .
+   71  git config --global core.autocrlf false
+   72  git add .
+   73  git commit -m "final commit"
+   74  git push -u origin master
+   75  history >> comman_history.txt
+   76  history >> command_history.txt
+    1  D:
+    2  cd bubblesortlocal
+    3  /D:
+    4  cd D:
+    5  cd bubblesortlocal
+    6  cd tutepart2
+    7  cd git-tutorial-HangYang
+    8  git pull
+    9  git branch
+   10  git pull
+   11  git merge feature1
+   12  git checkout feature1
+   13  git checkout origin/feature1
+   14  git branch
+   15  git pull
+   16  git add -A
+   17  git commit -m  "Fix"
+   18  git checkout
+   19  git checkout feature1
+   20  git merge
+   21  git pull
+   22  git add -A
+   23  git commit -m "Fix"
+   24  git push -u origin master
+   25  git branch
+   26  git add -A
+   27  git commit -m "Fix"
+   28  git push
+   29  git push -m origin feature1
+   30  git push -m master
+   31  git push --set-upstream origin feature1
+   32  git checkout
+   33  git pull
+   34  git add -A
+   35  git commit -m "Fix"
+   36  git status
+   37  git checkout master
+   38  git merge feature1
+   39  git push -u origin master
+   40  git branch
+   41  git checkout feature1
+   42  git commit -m "FIX"
+   43  git push
+   44  git merge master
+   45  git remote add origin https://github.com//github.com/
+   46  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   47  git remote rm origin
+   48  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   49  git push -u origin feature1
+   50  git push -m "Fix"
+   51  git commit -m "FIX"
+   52  git checkout master
+   53  git commit -m "Fix"
+   54  git push
+   55  cd D:
+   56  cd Coding
+   57  cd lab-1-git-HangYang
+   58  history >> command_history.txt
+   59  git add .
+   60  git commit -m "History"
+   61  git remote add origin https://https://github.com/isys3413-sef-2020-sem1/lab-1-git-HangYang.git
+   62  git rm origin
+   63  history >> command_history.txt
+   64  git add .
+   65  git commit -m "final commit"
+   66  git push -u origin master
+   67  git branch
+   68  git checkout master
+   69  history >> command_history.txt
+   70  git add .
+   71  git config --global core.autocrlf false
+   72  git add .
+   73  git commit -m "final commit"
+   74  git push -u origin master
+   75  history >> comman_history.txt
+   76  history >> command_history.txt
+   77  git add .
+   78  git commit -m "final commit"
+   79  git push -u origin master
+   80  git config --global core.autocrlf true
+   81  history >> command_history.txt
+    1  D:
+    2  cd bubblesortlocal
+    3  /D:
+    4  cd D:
+    5  cd bubblesortlocal
+    6  cd tutepart2
+    7  cd git-tutorial-HangYang
+    8  git pull
+    9  git branch
+   10  git pull
+   11  git merge feature1
+   12  git checkout feature1
+   13  git checkout origin/feature1
+   14  git branch
+   15  git pull
+   16  git add -A
+   17  git commit -m  "Fix"
+   18  git checkout
+   19  git checkout feature1
+   20  git merge
+   21  git pull
+   22  git add -A
+   23  git commit -m "Fix"
+   24  git push -u origin master
+   25  git branch
+   26  git add -A
+   27  git commit -m "Fix"
+   28  git push
+   29  git push -m origin feature1
+   30  git push -m master
+   31  git push --set-upstream origin feature1
+   32  git checkout
+   33  git pull
+   34  git add -A
+   35  git commit -m "Fix"
+   36  git status
+   37  git checkout master
+   38  git merge feature1
+   39  git push -u origin master
+   40  git branch
+   41  git checkout feature1
+   42  git commit -m "FIX"
+   43  git push
+   44  git merge master
+   45  git remote add origin https://github.com//github.com/
+   46  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   47  git remote rm origin
+   48  git remote add origin https://github.com/isys3413-sef-2020-sem1/git-tutorial-HangYang.git
+   49  git push -u origin feature1
+   50  git push -m "Fix"
+   51  git commit -m "FIX"
+   52  git checkout master
+   53  git commit -m "Fix"
+   54  git push
+   55  cd D:
+   56  cd Coding
+   57  cd lab-1-git-HangYang
+   58  history >> command_history.txt
+   59  git add .
+   60  git commit -m "History"
+   61  git remote add origin https://https://github.com/isys3413-sef-2020-sem1/lab-1-git-HangYang.git
+   62  git rm origin
+   63  history >> command_history.txt
+   64  git add .
+   65  git commit -m "final commit"
+   66  git push -u origin master
+   67  git branch
+   68  git checkout master
+   69  history >> command_history.txt
+   70  git add .
+   71  git config --global core.autocrlf false
+   72  git add .
+   73  git commit -m "final commit"
+   74  git push -u origin master
+   75  history >> comman_history.txt
+   76  history >> command_history.txt
+   77  git add .
+   78  git commit -m "final commit"
+   79  git push -u origin master
+   80  git config --global core.autocrlf true
+   81  history >> command_history.txt
+   82  git add .
+   83  git commit -m "final commit"
+   84  git push -u origin master
+   85  git fetch origin master
+   86  git merge origin master
+   87  git branch
+   88  git push -u origin master
+   89  git fetch origin master:tmp
+   90  git rebase tmp
+   91  git push origin HEAD:master
+   92  git branch -D tmp
+   93  git init
+   94  history >> command_history.txt
